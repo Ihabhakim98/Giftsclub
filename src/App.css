@@ -1,0 +1,21 @@
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.blue-text {
+  color: #2196f3;
+}
+
+.main {
+  padding-top: 60px;
+}
+
+.carte-prix-details {
+  font-size: 14px;
+}
+
+.carte-prix-liste {
+  margin-bottom: 50px;
+}
